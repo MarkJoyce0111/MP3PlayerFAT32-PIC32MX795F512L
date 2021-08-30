@@ -1,7 +1,8 @@
 # MP3PlayerFAT32-PIC32MX795F512L
 MP3 player for FAT32. PIC32MX795F512L on Mikroelektronika Easy Pic Fusion 7.
 Mikroelektronika dont give an example of how to use modern SD cards ie FAT32 and VS1011E codec (chip), only FAT and old cards you can only get on ebay now days.
-So for FAT32 format and any card here you go.
+So for FAT32 format I wrote this for use with modern cards.  
+Requires MikroC for PIC32 compiler..... which doesn't support Classes, no joke.  
 Notes
 /*
  * Project name:
