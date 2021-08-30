@@ -1,0 +1,13 @@
+<EasyTFT>
+	<Attributes>
+		<Url>http://www.mikroe.com/store/components/various/</Url>
+		<Image>EasyTFT.jpg</Image>
+		<File></File>
+	</Attributes>
+	<Events>
+		<OnLeftClick></OnLeftClick>
+		<OnRightClick></OnRightClick>
+		<OnDblClick>OpenUrl</OnDblClick>
+		<OnMouseOver>PreviewImage</OnMouseOver>
+	</Events>
+</EasyTFT>
